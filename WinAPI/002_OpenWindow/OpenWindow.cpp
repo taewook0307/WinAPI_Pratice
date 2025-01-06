@@ -46,8 +46,6 @@ int WINAPI WinMain(HINSTANCE _hInstance, HINSTANCE, char*, int)
 		DispatchMessageA(&msg);
 	}
 
-
-
 	return 0;
 }
 
