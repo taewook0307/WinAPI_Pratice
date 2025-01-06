@@ -8,7 +8,7 @@ int WINAPI WinMain(HINSTANCE _hinstance, HINSTANCE, char*, int)
 	return 0;
 }
 
-// HINSTANCE : 윈도우 프로그램이 가지고 있는 고유 ID, 핸들 인스턴스
+// HINSTANCE : 윈도우 프로그램이 가지는 ID, 핸들 인스턴스
 
 /*
 프로젝트 속성에서 링커 -> 시스템 -> 하위 시스템을 윈도우로 변경
